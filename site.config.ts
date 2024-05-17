@@ -17,10 +17,10 @@ export default siteConfig({
   description: 'The signature singularity residency is a program meant to bring projects working on zk proofs of signatures closer to production.',
 
   // social usernames (optional)
-  twitter: 'yush_g',
-  github: 'zkemail',
+  // twitter: 'yush_g',
+  // github: 'cursive-team',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
-  newsletter: 'mailto:vb7401@gmail.com', // optional newsletter URL
+  // newsletter: 'mailto:vb7401@gmail.com', // optional newsletter URL
   youtube: 'sigsing', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
